@@ -17,4 +17,4 @@
 
 from .random_id import random_id
 
-__version__ = "1.0"
+__version__ = "1.0.1"
